@@ -1,5 +1,5 @@
 class MyClassJG{
-	public static void mail(String args[]){
+	public static void main(String args[]){
 		System.out.println("Hello JG");
 	}
 }
